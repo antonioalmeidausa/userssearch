@@ -1,0 +1,14 @@
+
+
+1 - Fazer um map() do array da API e trazer somente os dados necessarios (name, age, gender, picture);
+
+2 - Quando o input for diferente de '' o botao de Search deve estar enabled. 
+
+3 - Quando o usuario inserir alguma informacao no input e clicar no botao ou enter.
+
+4 - Lado esquerdo deve mostrar um array de pessoas somente com as informacoes que o usuario digitou
+
+5 - Lado direito deve mostrar a soma das idades, media das idades, total de male, e total de female.
+
+
+
